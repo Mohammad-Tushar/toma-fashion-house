@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+.orange-bg{
+    background-color: #fecae8;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.container{
+    padding: 10px 20px;
+}
+#carouselExampleControls{
+    padding-bottom: 20px;
+
+}
